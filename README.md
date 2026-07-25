@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hey There! 👋</h1>
 
-<!--
-**lookfurry/lookfurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Hi! I'm lookfurry, a 18-year-old indie developer from Poland (Poznan). I've been programming for about three years now!
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://shields.io" alt="Total Stars" />
+  <img src="https://shields.io" alt="Followers" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br/>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br/>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://vercel.app" alt="Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://vercel.app" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+

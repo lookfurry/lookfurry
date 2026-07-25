@@ -5,34 +5,34 @@
 </p>
 
 <p align="center">
-  <img src="https://shields.io" alt="Total Stars" />
-  <img src="https://shields.io" alt="Followers" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 <p align="center">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Kotlin" />
-  <img src="https://shields.io" alt="Go" />
-  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
   <br/>
-  <img src="https://shields.io" alt="Flutter" />
-  <img src="https://shields.io" alt="Android Studio" />
-  <img src="https://shields.io" alt="VS Code" />
-  <img src="https://shields.io" alt="Discord" />
-  <img src="https://shields.io" alt="Blender" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
   <br/>
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Nginx" />
-  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
----
+<hr />
 
 <p align="center">
-  <img src="https://vercel.app" alt="Stats" />
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://vercel.app" />
+  <img src="https://vercel.app" />
 </p>

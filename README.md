@@ -4,7 +4,7 @@
   <a href="https://discord.gg/Sj6x9mKpnM">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://t.me/lookfurry">
+  <a href="https://t.me/zeqvra">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>

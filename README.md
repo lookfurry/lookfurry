@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tenor.com" width="180" alt="Boykisser"/>
+<img src="https://tenor.com" width="180" alt="Boykisser">
 
 # Привет! Я Ash (灰) 👋
 

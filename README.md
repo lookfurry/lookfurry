@@ -28,12 +28,4 @@
   <img src="https://shields.io" alt="Git"/>
 </p>
 
----
-
-### Моя статистика GitHub
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="400"/>
-  <img src="https://vercel.app" alt="Top Languages" width="300"/>
-</p>
-
 </div>
